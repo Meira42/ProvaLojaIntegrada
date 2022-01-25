@@ -1,0 +1,2 @@
+CT;id_email;id_confirmacao_email;id_senha;id_confirmacao_senha;id_nome;id_cpf;id_telefone_celular;id_telefone_principal;id_data_nascimento;id_cep;id_endereco;id_bairro;id_cidade;id_email_login
+realizarCadastro;teste123@teste.com;teste123@teste.com;teste123;teste123;João Teste da Silva;358.897.090-89;99999999999;88888888888;1011990;05731-250;Avenida das Belezas;Vila Plana;São Paulo;
